@@ -10,7 +10,7 @@ Frontend Mentor is a platform that provides real-world front-end projects for de
 
 Here is a list of the challenges I have completed:
 
-- [Challenge 1](https://www.frontendmentor.io/): QR code component
+- [Challenge 1](https://lele-sf.github.io/frontendMentor/qr-code/): QR code component
 - ...
 
 ## Acknowledgments
