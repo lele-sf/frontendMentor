@@ -32,8 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([https://your-live-site-url.com](https://lele-sf.github.io/frontendMentor/results-summary/))
+- Live Site URL: ([Click here](https://lele-sf.github.io/frontendMentor/results-summary/))
 
 ## My process
 
