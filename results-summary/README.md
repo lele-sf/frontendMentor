@@ -41,24 +41,21 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- Bootstrap
 
 
 ### What I learned
 
-Through this project, I had the opportunity to delve into Bootstrap for the first time, and it proved to be a valuable learning experience, highlighting the power and versatility of the framework, while also revealing that there is still much more to discover and master.
+Through this project, I gained experience in creating a responsive user interface using CSS flexbox and custom properties. I also improved my skills in mobile-first development, ensuring that the design is optimized for various screen sizes.
 
 ### Continued development
 
-In future projects, I would like to further explore Bootstrap and its various components to enhance my front-end development skills.
+In future projects, I plan to explore advanced CSS techniques and possibly incorporate JavaScript to add interactivity and enhance user experience.
 
 ### Useful resources
 
 - [CSS Tricks](https://css-tricks.com/) 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
 ## Author
